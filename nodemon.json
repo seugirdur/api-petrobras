@@ -1,0 +1,10 @@
+{
+"env":{
+
+"MYSQL_USER":"backend",
+"MYSQL_PASSWORD":"agathusia",
+"MYSQL_DATABASE":"test",
+"MYSQL_HOST":"139.177.199.178",
+"MYSQL_PORT":3306,
+"JWT_KEY":"meliorism"
+}}
